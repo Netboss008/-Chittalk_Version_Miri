@@ -1,1 +1,37 @@
- 
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChitTalk</string>
+    
+    <!-- Auth Strings -->
+    <string name="login">Login</string>
+    <string name="register">Registrieren</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Passwort</string>
+    <string name="confirm_password">Passwort bestätigen</string>
+    <string name="forgot_password">Passwort vergessen?</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_stream">Stream</string>
+    <string name="nav_profile">Profil</string>
+    
+    <!-- Chat -->
+    <string name="message_hint">Nachricht eingeben…</string>
+    <string name="send">Senden</string>
+    <string name="attach">Anhängen</string>
+    
+    <!-- Stream -->
+    <string name="start_stream">Stream starten</string>
+    <string name="end_stream">Stream beenden</string>
+    <string name="live">LIVE</string>
+    
+    <!-- Profile -->
+    <string name="edit_profile">Profil bearbeiten</string>
+    <string name="settings">Einstellungen</string>
+    <string name="logout">Abmelden</string>
+    
+    <!-- Error Messages -->
+    <string name="error_network">Netzwerkfehler. Bitte überprüfe deine Verbindung.</string>
+    <string name="error_unknown">Ein unerwarteter Fehler ist aufgetreten.</string>
+</resources> 
